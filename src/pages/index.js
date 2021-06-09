@@ -1,6 +1,6 @@
 // Step 1: Import React
 import * as React from 'react'
-import Header from '/header'
+import Header from './Header'
 
 // Step 2: Define your component
 const IndexPage = () => {
